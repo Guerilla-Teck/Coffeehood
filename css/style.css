@@ -547,6 +547,7 @@ section {
     }
 
     .home {
+      position: absolute;
         text-align: center;
     }
 
