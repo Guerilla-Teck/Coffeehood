@@ -547,8 +547,8 @@ section {
     }
 
     .home {
-      position: absolute;
-        text-align: center;
+      padding-top:200px;
+      text-align: center;
     }
 
     .home .row .content h3 {
